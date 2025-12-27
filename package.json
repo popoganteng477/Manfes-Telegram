@@ -1,0 +1,14 @@
+{
+  "name": "manfes-telegram",
+  "version": "1.0.0",
+  "description": "Manfes Anonim dengan integrasi Telegram",
+  "main": "api/send.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
