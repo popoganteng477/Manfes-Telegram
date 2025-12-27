@@ -1,0 +1,13 @@
+# Ignore folder node_modules (dari npm install)
+node_modules/
+
+# Ignore file environment rahasia
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignore Vercel cache & build
+.vercel/
+dist/
+build/
